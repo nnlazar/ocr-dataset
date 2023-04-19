@@ -4,11 +4,11 @@
 
   The content of each image needs to be labeled as:
 
-  Text: please draw a bounding box around individual paragraphs, figure & table caption; table footnote;
-  Title: please draw a bounding box around each standalone title, section and subsection title;
-  List: please draw a bounding box around nested lists;
-  Table: please draw a bounding box around each table;
-  Figure: please draw a bounding box around each figure.
+  - Text: please draw a bounding box around individual paragraphs, figure & table caption; table footnote;
+  - Title: please draw a bounding box around each standalone title, section and subsection title;
+  - List: please draw a bounding box around nested lists;
+  - Table: please draw a bounding box around each table;
+  - Figure: please draw a bounding box around each figure.
 
 Here are some examples of correctly annotated images:
   - [Screenshot 2023-04-07 at 11.18.26.png](https://github.com/nnlazar/ocr-dataset/blob/main/Screenshot%202023-04-07%20at%2011.18.26.png)
