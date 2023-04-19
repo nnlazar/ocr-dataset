@@ -18,7 +18,7 @@ Here are some examples of correctly annotated images:
 
 **Please check the /corect_wrong_images folder for more examples.**
 
-In /corect_wrong_image the following examples are incorectly annotated. In the folder we have provided the correct version of the image.
+In /corect_wrong_images the following examples are incorectly annotated. In the folder we have provided the correct version of the image.
 
 colors = {title: blue,
           text: green,
